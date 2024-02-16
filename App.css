@@ -1,0 +1,248 @@
+.card-container{
+  border: 0px, 0px, 0.5px, 0px;
+  width: 100%;
+  height:56px;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+
+  position: fixed;
+  top:0px;
+  left:0px;
+
+  border-bottom: 0.5px solid #E6E8F0;
+}
+.card-container .logoImg{
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top:12px;
+  left: 48px;
+  bottom: 938px;
+  right: 1432px;
+}
+
+.card-container .logoImg {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 65px;
+  top: 16px;
+  right: 1432px;
+  bottom: 938px;
+}
+.card-container .card1{
+
+ 
+  position: fixed;
+  width: 148px;
+  height: 32px;
+  top: 12px;
+  left: 48px;
+  gap: 4px;
+  font-size: 18px;
+  font-family: "DM Sans";
+  letter-spacing: 0em;
+  text-align: right;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+}
+
+.card-container .all{
+  position: relative;
+  width: 414px;
+  height: 40px;
+  top: 8px;
+  left: 550px;
+  right: 548px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 24px;
+}
+
+.card-container .all .overview{
+  
+  width: 101px;
+  height: 24px;
+  position: fixed;
+  top: 16px;
+  text-align: center;
+  bottom: 16px;
+  border-radius: 8px;
+  left:566px;
+  right:845px;
+  background: rgba(233, 241, 251, 1);
+
+
+}
+.card-container .all .pings{
+  width: 101px;
+  height: 40px;
+  position: fixed;
+  left:723px;
+  right:720px ;
+  top:16px;
+  bottom: 942px;
+}
+.card-container .all .students{
+  width: 100px;
+  height: 24px;
+  position: fixed;
+  left: 848px;
+  right:564px;
+  top:16px;
+  bottom: 942px;
+  gap: 24px;
+
+}
+.card-container .doctor{
+  position: fixed;
+  width: 184px;
+  height: 32px;
+  top: 12px;
+  right: 80px;
+  left:1248px;
+  bottom: 938px;
+}
+.card-container .doctor .doc{
+
+  
+  width: 104px;
+  height: 24px;
+  font-family:"DM Sans";
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  background: rgba(13, 28, 54, 1);
+  position: relative;
+  left: 1288px;
+  top: 16px;
+  right: 120px;
+  bottom: 942px;
+
+}
+.card-container .all .msgImg{
+
+  width: 24px;
+  height: 24px;
+  position: fixed;
+  left: 696px;
+  top:16px;
+  bottom: 942px;
+  right: 765px;
+}
+.card-container .all .ppl{
+  position:fixed;
+  left: 820px;
+  top: 16px;
+  right: 240px;
+  bottom: 942px;
+  width: 24px;
+  height: 24px;
+}
+.card-container .all .ov{
+  position:fixed;
+  left: 556px;
+  top: 16px;
+  right: 922px;
+  bottom: 942px;
+  width: 24px;
+  height: 24px;
+
+
+}
+.card-container .doctor .notif{
+  width: 24px;
+  height: 24px;
+  position: fixed;
+  left: 1220px;
+  top: 12px;
+  right: 240px;
+  bottom: 942px;
+
+}
+.card-container .doctor .avatar{
+  width: 32px;
+  height: 32px;
+  position: fixed;
+  border-radius: 8px;
+  left: 1350px;
+  top: 10px;
+  right: 80px;
+  bottom: 938px;
+  
+
+}
+
+.doctor2{
+  width: 238px;
+  height: 36px;
+  position: absolute;
+  top: 96px;
+  left: 310px;
+  right: 954px;
+  bottom: 850px;
+
+}
+
+.doctor2 .dr{
+  position: absolute;
+  font-family: "DM Sans";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(13, 28, 54, 1);
+
+}
+.arrow{
+  width: 64.4px;
+  height: 29px;
+  position: absolute;
+  top: 128px;
+  left: 260px;
+  right: 1187.6px;
+  bottom: 825px;
+
+}
+.arrow .a1{
+    width: 16.95px;
+    height: 12.74px;
+    position: fixed;
+    top: 126px;
+    left: 305px;
+    right: 1187.6;
+    bottom: 841.26;
+}
+
+.arrow .a2{
+  width: 57.87px;
+  height: 22.21px;
+  position:fixed;
+  top: 128px;
+  left: 260px;
+  right: 1187.6px;
+  bottom: 825px;
+}
+
+.statistics{
+  width: 82px;
+  height: 24px;
+  position:absolute;
+  top: 164px;
+  left: 320px;
+  right: 1110px;
+  bottom: 794px;
+  
+}
+.statistics .stats{
+  font-family:"DM Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(81, 87, 114, 1);
+
+}
